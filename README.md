@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi there! 👋 I'm Waqar Abbas<br><br>A passionate frontend developer based in Pakistan. My journey in the world of web development started with a love for creating visually appealing and interactive user interfaces. I specialize in crafting delightful user experiences through clean and efficient code.
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/aBBaSOO313) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/waqarabas_72/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/waqar-abbas-5943b4287/) 
 
